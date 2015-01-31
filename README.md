@@ -65,8 +65,9 @@ Or maybe we start later? Around 10:00h? Let’s find out. We are all grown ups a
 You did great! Feel good 
 
 
+
 Such much for now,
-Your
-MODX CCC 2015 Crew
+
+Your MODX CCC 2015 Crew
 
 *Oliver Haase-Lobinger, Jens Külzer, Sebastian Burchert, Jens Wolff*
