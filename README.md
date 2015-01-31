@@ -1,4 +1,4 @@
-# Organization-Stuff
+# Organization Stuff
 
 Soon MODX CCC 2015 takes place. Excited? We are! So, here are some basics you might want/need to know.
 
