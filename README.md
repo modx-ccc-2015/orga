@@ -11,7 +11,7 @@ And another thing: In order to reserve enough restaurant chairs for the friday e
 OK, that was that. So, let’s start!
 
 
-**Where will it happen?**
+###Where will it happen?###
 [inreti GmbH](www.github.com).
 Hochstadenstr. 33
 50674 Köln
