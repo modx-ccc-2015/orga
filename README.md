@@ -38,7 +38,7 @@ Visitors traveling by car need a "Feinstaubplakette" (emission sticker for micro
 It’s like hiking: BYOFAD – Bring your own food and drinks. There are plenty of supermarkets, restaurants, takeaways etc. – just around the corner. And a LOT of pubs for the after-code-pleasure.
 
 
-###Paying in places###
+##Paying in places##
 Ze Germans don’t use credit cards very often. We pay via EC-cards or cash. Don’t even think of BitCoins. ;-)
 You can get yourself some cash around the corner at the [Sparkasse](https://www.google.de/maps/place/Sparkasse+K%C3%B6lnBonn+-+Gesch%C3%A4ftsstelle/@50.929102,6.9421981,16z/data=!4m5!1m2!2m1!1sbarbarossapltz+k%C3%B6ln+bank!3m1!1s0x0000000000000000:0x96655fd7b3a7f5d8) or this [ATM](https://www.google.de/maps/place/K%C3%B6lner+Bank+eG+-+Geldautomat+Rewe+Markt+Z%C3%BClpicher+Platz/@50.929102,6.9421981,16z/data=!4m5!1m2!2m1!1sbarbarossapltz+k%C3%B6ln+bank!3m1!1s0x0000000000000000:0x8075935c63b3c1a0). In Restaurants it’s better to have some cash on you.
 Hotels should accept EC- and credit cards. VISA or MasterCard are fine, with American Express it’s sometimes difficult. Just ask them to avoid any check-out trouble.
