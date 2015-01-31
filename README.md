@@ -66,6 +66,9 @@ You did great! Feel good
 
 
 Such much for now,
+
 Your
+
 MODX CCC 2015 Crew
+
 *Oliver Haase-Lobinger, Jens Külzer, Sebastian Burchert, Jens Wolff*
