@@ -9,7 +9,7 @@ Please, Oliver, let us know by replying to this e-mail no later than monday.
 OK, that was that. So, let’s start!
 
 
-Where will it happen?
+*Where will it happen?*
 inreti GmbH
 Hochstadenstr. 33
 50674 Köln
