@@ -48,20 +48,25 @@ Hotels should accept EC- and credit cards. VISA or MasterCard are fine, with Ame
 
 #####Fri., 6th Feb.#####
 18:00h **GET TOGETHER – beta phase**
+
 19:00h **GET TOGETHER – release phase AKA Let’s eat, drink, talk!**
+
 This will happen at a restaurant of our choice and everybody pays his own stuff. ;-) 
 
 #####Sat., 7th Feb.#####
 09:00h **MODX CCC 2015 – boot up**
+
 Although this event is self-organized, we will say something on  „what could happen at the CCC“. 
 You might want to take another look at the „[CCC wishlist](https://github.com/modx-ccc-2015/whishlist)“ on GitHub to see what others would like to do – or just create/check your own CCC issues.
 For the evening, well, we’ll see. There are plenty of possible things to do.
 
 #####Sun., 8th Feb.#####
 09:00h **MODX CCC 2015 – still running**
+
 Or maybe we start later? Around 10:00h? Let’s find out. We are all grown ups and know our limits, right? :-D
 
 18:00h **MODX CCC 2015 – shut down**
+
 You did great! Feel good 
 
 
