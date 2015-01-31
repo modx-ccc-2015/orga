@@ -1,3 +1,5 @@
+
+
 Soon MODX CCC 2015 takes place. Excited? We are! So, here are some basics you might want/need to know.
 
 But first, we need something from you: Could somebody bring a beamer? We have one (1024x768) and would like to have a second one. Anybody? Contact us (AKA reply). Thank you!
