@@ -12,7 +12,7 @@ OK, that was that. So, let’s start!
 
 
 ##Where will it happen?##
-[inreti GmbH](www.github.com).
+[inreti GmbH](https://www.inreti.de).
 Hochstadenstr. 33
 50674 Köln
 
