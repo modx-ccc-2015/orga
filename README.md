@@ -12,9 +12,11 @@ OK, that was that. So, let’s start!
 
 
 ##Where will it happen?##
-[inreti GmbH](https://www.google.de/maps/place/inreti+GmbH/@50.929471,6.939425,17z/data=!3m1!4b1!4m2!3m1!1s0x47bf24fdd196da77:0xeaa48484b2d60c47) [www.inreti.de](https://www.inreti.de).
-Hochstadenstr. 33
-50674 Köln
+[inreti GmbH](https://www.google.de/maps/place/inreti+GmbH/@50.929471,6.939425,17z/data=!3m1!4b1!4m2!3m1!1s0x47bf24fdd196da77:0xeaa48484b2d60c47)
+
+Hochstadenstr. 33, 50674 Köln
+
+[www.inreti.de](https://www.inreti.de)
 
 Thanks to Jens Külzer and Sebastian Burchert for sharing their space!
 
